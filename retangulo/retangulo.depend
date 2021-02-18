@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613579315 source:c:\users\eduff\desktop\exercicios em c\projetos - exercicios em c\retangulo\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+
